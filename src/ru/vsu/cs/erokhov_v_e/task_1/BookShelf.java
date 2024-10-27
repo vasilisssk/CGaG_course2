@@ -3,7 +3,7 @@ package ru.vsu.cs.erokhov_v_e.task_1;
 import java.awt.*;
 import java.util.Random;
 
-public class BookShelf {
+public class BookShelf { //кто прочитал, тот умрёт
     private int shelfWidth;
     private int shelfHeight;
     private int wallWidth;
